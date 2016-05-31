@@ -1,0 +1,22 @@
+{
+  "name": "angular-gulp-starter",
+  "version": "1.0.0",
+  "description": "angular gulp starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalakhouri/angular-gulp-starter.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Akhouri Vishal Sinha <vishal.akhouri@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/vishalakhouri/angular-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/vishalakhouri/angular-gulp-starter#readme"
+}
